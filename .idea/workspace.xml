@@ -4,8 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="757f61f0-8593-4541-b7d9-654e6f69b93c" name="Changes" comment="matrix_added">
+    <list default="true" id="757f61f0-8593-4541-b7d9-654e6f69b93c" name="Changes" comment="recursion_added">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.29.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.38.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.41.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.42.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.43.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.43.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.48.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.48.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.104.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.104.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.13.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.14.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.15.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.18.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.34.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.34.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.35.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.35.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.36.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.37.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.37.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.38.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.38.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.39.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.39.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.40.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.40.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.56B.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.56B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.56a.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.56a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.111.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.111.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.112.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.112.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.113.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.113.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.114.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.114.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.115.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.115.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.116.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.116.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.22.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.23.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.26.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +73,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.4.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.36.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.11.104.executor": "Run",
+    "Python.12.24_2.executor": "Run",
+    "Python.12.25_5.executor": "Run",
+    "Python.12.25a.executor": "Run",
+    "Python.12.25b.executor": "Run",
+    "Python.12.25c.executor": "Run",
+    "Python.12.28.executor": "Run",
+    "Python.4.6.executor": "Run",
+    "Python.5.36.executor": "Run",
+    "Python.matritsa.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -101,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739557808333</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="recursion_added">
+      <option name="closed" value="true" />
+      <created>1739779997220</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739779997220</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +174,7 @@
     </ignored-roots>
     <MESSAGE value="..." />
     <MESSAGE value="matrix_added" />
-    <option name="LAST_COMMIT_MESSAGE" value="matrix_added" />
+    <MESSAGE value="recursion_added" />
+    <option name="LAST_COMMIT_MESSAGE" value="recursion_added" />
   </component>
 </project>
